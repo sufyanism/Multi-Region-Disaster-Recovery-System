@@ -1,7 +1,4 @@
 # Multi-Region Disaster Recovery System
-
-![Architecture Diagram](https://via.placeholder.com/600x200?text=Multi-Region+DR+Architecture)
-
 This project demonstrates a **Multi-Region Disaster Recovery (DR) System** for cloud applications, ensuring high availability, automated failover, and minimal data loss in case of regional outages.
 
 ## Features
